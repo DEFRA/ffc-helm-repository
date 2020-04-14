@@ -9,3 +9,4 @@ Steps:
   * Add library chart under `dependencies`. Choose the version you want. Version number can include `~` or `^` to pick up latest PATCH and MINOR versions respectively
   * Need to do `helm dependency update` (check if need to do add helm repo -- see Helm chart documentation)
 
+For information on how to use each template please check the [ffc-helm-library repo README](https://github.com/DEFRA/ffc-helm-library/blob/master/README.md)
