@@ -2,7 +2,57 @@ apiVersion: v1
 entries:
   adp-aso-helm-library:
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4779282Z"
+    created: "2024-02-15T14:24:31.7110774Z"
+    description: A Helm chart library that captures general configuration for Azure
+      Service Operator (ASO) resources.
+    digest: 18fc3541bfb6205c3c02e8469a5c517dbc10b174557ae83ea52271273cf02dc8
+    name: adp-aso-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.16.tgz
+    version: 1.0.16
+  - apiVersion: v2
+    created: "2024-02-15T14:24:31.7110774Z"
+    description: A Helm chart library that captures general configuration for Azure
+      Service Operator (ASO) resources.
+    digest: 9cffca9625dcd2ed63abf8c9c41fb0c3ba5be3d51d9db592bf852a25ff16bb97
+    name: adp-aso-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.16-prerelease4.tgz
+    version: 1.0.16-prerelease4
+  - apiVersion: v2
+    created: "2024-02-15T14:24:31.7105658Z"
+    description: A Helm chart library that captures general configuration for Azure
+      Service Operator (ASO) resources.
+    digest: 1c8966a2d2f7ca0e0f395b6cf4933db21b9b66e32da6849dbab8d9e58de97ff1
+    name: adp-aso-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.16-prerelease3.tgz
+    version: 1.0.16-prerelease3
+  - apiVersion: v2
+    created: "2024-02-15T14:24:31.7098649Z"
+    description: A Helm chart library that captures general configuration for Azure
+      Service Operator (ASO) resources.
+    digest: 30a68c956d2f9af4ddf936f61471d6cf8fb7ed501aa898cfe6a9ee167a89a8e5
+    name: adp-aso-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.16-prerelease2.tgz
+    version: 1.0.16-prerelease2
+  - apiVersion: v2
+    created: "2024-02-15T14:24:31.7080202Z"
+    description: A Helm chart library that captures general configuration for Azure
+      Service Operator (ASO) resources.
+    digest: cc95e2e3f040e8a5f2f72bc3c5b0bc03e480f1f91abe71df856d01107a416fce
+    name: adp-aso-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.16-prerelease1.tgz
+    version: 1.0.16-prerelease1
+  - apiVersion: v2
+    created: "2024-02-15T14:24:31.7080202Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 90ac10c02c376b8a7809f20d2c0f16824d28168f358c9292eeca0c02db8954e4
@@ -12,7 +62,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4779282Z"
+    created: "2024-02-15T14:24:31.7075101Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 6b46ead5afe251df04ca6dabdc93a225f8a2f7038a83e3d3ed233458982416e8
@@ -22,7 +72,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.15-prerelease1.tgz
     version: 1.0.15-prerelease1
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4779282Z"
+    created: "2024-02-15T14:24:31.7053949Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 1b0d92858454d7b41a938218d00b61135ed64ab1ee202d528ca7907a68f408da
@@ -32,7 +82,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4399656Z"
+    created: "2024-02-15T14:24:31.7053949Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: d81162d4d40f52ef595575d69d92c20165e467ba44570cdd79a001fd1d5ee65b
@@ -42,7 +92,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4388692Z"
+    created: "2024-02-15T14:24:31.7015161Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 50bed65357be9f1a9cfba31c77cfdc110f91ec761c721a1584bdb28f36d4c497
@@ -52,7 +102,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4382236Z"
+    created: "2024-02-15T14:24:31.7015161Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 55ec77182313259d90438de7472a2b01745c514abd1fb210ab295b02e5014955
@@ -62,7 +112,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.12-prerelease3.tgz
     version: 1.0.12-prerelease3
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4366366Z"
+    created: "2024-02-15T14:24:31.7015161Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 7adce34eef82d31d13a6d910ef6aff5f2eed5e32687daa9bc27f57501058b480
@@ -72,7 +122,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.12-prerelease2.tgz
     version: 1.0.12-prerelease2
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4366366Z"
+    created: "2024-02-15T14:24:31.7015161Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 4f5860baf9f8760d5ba1f9f1badadf21124690cf72a464fd2b833eae64bf4113
@@ -82,7 +132,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.12-prerelease1.tgz
     version: 1.0.12-prerelease1
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4336281Z"
+    created: "2024-02-15T14:24:31.7009933Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 3c079bb6b1c40788879894b1728b510db3d4d42ab94e71c13599444a4f61287f
@@ -92,7 +142,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4336281Z"
+    created: "2024-02-15T14:24:31.69943Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: d16fe36ce499ad507687f0c6d23557b94e40a952aed9eb147b8ecc8a4473561c
@@ -102,7 +152,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4809576Z"
+    created: "2024-02-15T14:24:31.7159371Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 8fdbc5303b7914fca2345daf7245f98a0e45c2a84da2b48aa9e6b9d0e193fdc2
@@ -112,7 +162,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4809576Z"
+    created: "2024-02-15T14:24:31.7159371Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: d789f7c4fbcfb24975b8f49cfe967bda644869a79bae668bedfbea2b5b1249fb
@@ -122,7 +172,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4809576Z"
+    created: "2024-02-15T14:24:31.7138143Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 1a81fa48b9635bea677665ebc106bc40852cd908d6018d1830f5fd8e97e40ec2
@@ -132,7 +182,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4809576Z"
+    created: "2024-02-15T14:24:31.7138143Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 4f04f0dbe4a87b72c0a914ca715f28e42b20872142dc2c69a0228fe55f6a7edd
@@ -142,7 +192,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4809576Z"
+    created: "2024-02-15T14:24:31.7138143Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 6a2938345dbd11b11730896a60d91c4f0413d69db5a07d928c9b1b13d24fd8cd
@@ -152,7 +202,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4809576Z"
+    created: "2024-02-15T14:24:31.7138143Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 11ec0ff980d9515f5599b9e081d735d05b70fed2c38fa05ba1f902d87bba3491
@@ -162,7 +212,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4809576Z"
+    created: "2024-02-15T14:24:31.7132956Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 2b2129f1da52402b837e79bd64864e2ef6c7e2154b5a40de09c17caa8db184ae
@@ -172,7 +222,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4779282Z"
+    created: "2024-02-15T14:24:31.7110774Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: a0a6d576e2debc01127f1712a061b0c66a3b754ef6e50b48cdf2e21fddec53ea
@@ -182,7 +232,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4336281Z"
+    created: "2024-02-15T14:24:31.69943Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 501d78c3c22737847a394d5a20b3b6be9cafe0a3cd47d9024336d446cfe780ed
@@ -192,7 +242,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2024-02-06T17:41:43.4336281Z"
+    created: "2024-02-15T14:24:31.6989025Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: f615f08c26b5f4a67891c4082db91e813cbfda114fc3d44c20b2eda20f59794e
@@ -201,4 +251,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.0.tgz
     version: 1.0.0
-generated: "2024-02-06T17:41:43.4143343Z"
+generated: "2024-02-15T14:24:31.6915Z"
