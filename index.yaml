@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   ffc-helm-library:
   - apiVersion: v2
+    created: "2026-08-17T10:51:27.013067481Z"
+    description: A Helm library chart that captures general configuration for the
+      FCP Kubernetes platform
+    digest: ebf0f56b3e322425ff2265adc13df4c1068c9f139cf9fdbd14ceb5504ebb062e
+    name: ffc-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra/ffc-helm-repository/master/ffc-helm-library-5.2.2-alpha-10.tgz
+    version: 5.2.2-alpha-10
+  - apiVersion: v2
     created: "2026-06-25T14:54:49.087394943Z"
     description: A Helm library chart that captures general configuration for the
       FCP Kubernetes platform
@@ -1021,4 +1031,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/defra/ffc-helm-repository/master/ffc-helm-library-1.0.0.tgz
     version: 1.0.0
-generated: "2026-06-25T14:54:49.033407607Z"
+generated: "2026-08-17T10:51:27.012591534Z"
